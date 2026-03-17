@@ -38,7 +38,7 @@ body {
     font-size: 2.8em;
 }
 
-.hero h2, .hero h3 {
+header.hero h2, header.hero h3, .hero .container h2, .hero .container h3 {
     color: #ffffff !important;
     border: none !important;
     margin: 5px 0;
