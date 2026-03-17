@@ -39,8 +39,8 @@ body {
 }
 
 .hero h2, .hero h3 {
-    color: #fff;
-    border: none;
+    color: #ffffff !important;
+    border: none !important;
     margin: 5px 0;
     padding: 0;
 }
