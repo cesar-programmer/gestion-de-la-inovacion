@@ -10,8 +10,11 @@
 **💻 Proyecto:**
 SmartMaq – ERP Inteligente con Inteligencia Artificial
 
-**👤 Alumno:**
-Bernardo Morales Ramos
+**👤 Alumnos:**
+- Bernardo Morales Ramos
+- Alvaro Román Vazquez Reyes
+- David Fernando Hernandez Orduno
+- Cesar Cordova Contreras
 
 **📅 Fecha de realización:**
 13 de marzo de 2026
@@ -33,7 +36,8 @@ Desarrollar un portafolio digital que documente el proceso de protección de pro
 | Bernardo Morales Ramos | Coordinador de Proyecto |
 | Alvaro Román Vazquez Reyes | Investigador Legal |
 | David Fernando Hernandez Orduno | Analista Técnico |
-| Cesar Cordova Contreras | Diseñador de Estrategia y Documentalista Digital |
+| Cesar Cordova Contreras | Diseñador de Estrategia |
+| Cesar Cordova Contreras | Documentalista Digital |
 
 ## 💡 Resumen Ejecutivo
 SmartMaq es un sistema ERP basado en la nube que incorpora:
